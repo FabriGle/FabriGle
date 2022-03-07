@@ -1,16 +1,18 @@
-### Hi there 👋
+### 👋 Hola
+• Hola mi nombre es **Fabri**, soy un chico que le interesa mucho el mundo de la programación.
 
-<!--
-**FabriGle/FabriGle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estoy trabajando en:
+• Actualmente estoy trabajando en un bot de discord
 
-Here are some ideas to get you started:
+### Aprendiendo:
+• Estoy aprendiendo: **Typescript**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4>GitHub Stats</h4>
+
+![Estadísticas de Fabri](https://github-readme-stats.vercel.app/api?username=FabriGle&show_icons=false&theme=tokyonight&locale=es)
+
+#### Lenguajes mas usados
+[![Leguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=FabriGle&theme=tokyonight&locale=es&layout=compact&card_width=450)](https://github.com/FabriGle/github-readme-stats)
+
+#### Mejor repo
+[![Mejor repositorio](https://github-readme-stats.vercel.app/api/pin/?username=FabriGle&repo=FabriGle&show_owner=1&theme=tokyonight)](https://github.com/FabriGle/FabriGle)
