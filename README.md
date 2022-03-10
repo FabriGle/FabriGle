@@ -1,2 +1,2 @@
-### 👋 Howa
-• Howa uwu me gusta pwogwamaw(eny weawiad copy anyd paste owo) quiewo fowkeaw todos tus pwoyectos uwu y mi máxima idowa es Wossy owo
+### 👋 Hola
+• Hola uwu soy fabi me gusta programar(en realiad copy and paste owo) quiero forkear todos tus proyectos uwu y mi máxima idola es Rossy owo
